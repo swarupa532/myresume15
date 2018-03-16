@@ -1,0 +1,22 @@
+{
+	"basics":{
+		"objective":"all are true"
+	}
+	"education"[
+	{
+		"degree":"B.tech(computer science of engineering)",
+		"college":"KLMCEW",
+		"data":["2015-2019","75"]
+},
+{
+	"degree":"state board of technical education(inter)",
+	"college":"narayana college",
+	"data":["2013-2015","85%"]
+},
+{
+    "degree":"ssc",
+    "college":"KGBV",
+    "data":["2012-2013","92%"]
+}
+]
+}
